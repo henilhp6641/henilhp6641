@@ -4,14 +4,6 @@
 
 I believe in turning "404 Not Found" into "200 OK" one line of code at a time. Join me in my quest to build the digital world, one emoji 🧱 at a time! Let's break the internet together! 🌐💥
 
-## 🌐 Socials:
-
-Connect with me on:
-- [Instagram](#)
-- [LinkedIn](#)
-- [Stack Overflow](#)
-- [Twitter](#)
-
 ## 💻 Tech Stack:
 
 I'm skilled in a variety of technologies, including:
