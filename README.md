@@ -4,7 +4,7 @@
 
 I believe in turning "404 Not Found" into "200 OK" one line of code at a time. Join me in my quest to build the digital world, one emoji 🧱 at a time! Let's break the internet together! 🌐💥
 
-## Socials:
+## 🌐 Socials:
 
 Connect with me on:
 - [Instagram](#)
@@ -22,35 +22,24 @@ I'm skilled in a variety of technologies, including:
 - Java
 - JavaScript
 - Python
+- Dart
 
 ### Web Development:
 - HTML5
 - CSS3
 - Bootstrap
-- Angular
-- React
 
 ### Backend & Server-side:
-- Node.js
-- Express.js
-- GraphQL
+- REST APIs
 - Firebase
 
 ### Databases:
 - MySQL
 - MongoDB
-- PostgreSQL
-
-### DevOps & Cloud:
-- AWS
-- Docker
-- GitHub Actions
 
 ### Tools & Frameworks:
 - Flutter
 - Git
-- Redux
-- SASS
 
 <!-- You can add badges for each technology from websites like shields.io to visually enhance your Tech Stack section -->
 
