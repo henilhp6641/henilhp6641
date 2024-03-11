@@ -9,6 +9,7 @@ I believe in turning "404 Not Found" into "200 OK" one line of code at a time. J
 I'm skilled in a variety of technologies, including:
 
 ### Programming Languages:
+- Kotlin
 - C
 - C++
 - Java
@@ -30,6 +31,7 @@ I'm skilled in a variety of technologies, including:
 - MongoDB
 
 ### Tools & Frameworks:
+- Android
 - Flutter
 - Git
 
