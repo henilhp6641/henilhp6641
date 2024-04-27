@@ -69,6 +69,9 @@ I believe in turning "404 Not Found" into "200 OK" one line of code at a time. J
 ![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?&style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?&style=for-the-badge&logo=scrum&logoColor=white)
 
+## 🔥 Streak Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henilpavasiya)  
 
 
 Looking forward to making a meaningful impact in the tech world!
