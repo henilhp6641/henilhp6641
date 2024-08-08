@@ -13,7 +13,7 @@ I believe in turning "404 Not Found" into "200 OK" one line of code at a time. J
 [<img align="left" alt="Henilkumar Patel | Email" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />](mailto:henil.pavasiya@gmail.com)
 [<img align="left" alt="Henilkumar Patel | Portfolio" width="40px" src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" />](https://henilpavasiya.github.io/Porfolio/)
 
-<br />
+<br /> 
 <br />
 
 
